@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://picture.gptkong.com/20240517/0243352edd89034966b2bc52490d5bafb5.png
+  img: http://picture.gptkong.com/20240517/0243352edd89034966b2bc52490d5bafb5.png
 
 # Disable all banner image
 disable_top_img: false
