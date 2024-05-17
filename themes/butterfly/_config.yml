@@ -40,12 +40,10 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
-
+favicon: http://picture.gptkong.com/20240518/0328c4d3bda6464169b24ec0df4282a66a.png
 # Avatar (頭像)
 avatar:
-  img: http://picture.gptkong.com/20240517/0243352edd89034966b2bc52490d5bafb5.png
-
+  img: http://picture.gptkong.com/20240518/0328c4d3bda6464169b24ec0df4282a66a.png
 # Disable all banner image
 disable_top_img: false
 
