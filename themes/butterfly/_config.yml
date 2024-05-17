@@ -44,34 +44,33 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: http://picture.gptkong.com/20240517/0243352edd89034966b2bc52490d5bafb5.png
+  img: picture.gptkong.com/20240517/0243352edd89034966b2bc52490d5bafb5.png
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: http://picture.gptkong.com/20240517/0248fa3773c9b74352bd31c5c42fddc622.png
+index_img: picture.gptkong.com/20240517/0248fa3773c9b74352bd31c5c42fddc622.png
 # If the banner of page not setting, it will show the top_img
 default_top_img: 
 # The banner image of archive page
-archive_img: https://dlink.host/wx1.sinaimg.cn/large/006W45Jnly8hponiqxiy0j30yi0jfwgf.jpg
+archive_img: 
 
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://dlink.host/wx1.sinaimg.cn/large/006W45Jnly8hponiqxiy0j30yi0jfwgf.jpg
+tag_img: 
 
 
 # The banner image of tag page
 # format:
 #  - tag name: xxxxx
-tag_per_img: https://dlink.host/wx1.sinaimg.cn/large/006W45Jnly8hponiqxiy0j30yi0jfwgf.jpg
+tag_per_img: 
 
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://dlink.host/wx1.sinaimg.cn/large/006W45Jnly8hponiqxiy0j30yi0jfwgf.jpg
-
+category_img: 
 # The banner image of category page
 # format:
 #  - category name: xxxxx
